@@ -1,80 +1,178 @@
-Federico Veneziano
-Executive Operations • Manufacturing • Finance • Applied AI
-I have spent more than 30 years working at the intersection of manufacturing, technology, operations, and business leadership.
-I started on the shop floor as a manufacturing operator and built my career through CNC machining, process engineering, product development, operations, finance, and executive leadership. Over time, I moved into COO/CFO and CEO-level responsibilities, leading teams across multiple companies and international operations with responsibility spanning 400+ employees.
-Technology has been part of my work for decades. My background includes CNC machining, machine tools, manufacturing software, process automation, electrical/electronics applications, and systems used to improve quality, capacity, cost, and decision-making.
-More recently, I have been applying AI, automation, and agentic workflows to practical business problems. What interests me most is not AI for its own sake, but how technology can reduce unnecessary work, support better decisions, and give people more time to focus on work that actually matters.
-What I Work On
-- Executive and operating systems
-- Manufacturing operations and process improvement
-- AI-enabled workflow automation
-- Agentic AI and business assistants
-- Scheduling and coordination tools
-- Voice AI and conversational workflows
-- OCR and document intelligence
-- Manufacturing quoting and RFQ workflows
-- Competitive intelligence
-- KPI, finance, and management dashboards
-- Continuous improvement and operational decision support
-Selected Applied AI Projects
-Executive & Manufacturing Operating System
-A working concept for bringing operations, finance, customers, maintenance, purchasing, quoting, forecasting, people, and KPIs into one operating environment.
-Focus: visibility, accountability, decision support, automation, and reducing administrative work.
-Intelligent Scheduling Assistant
-A scheduling assistant designed to work across calendars, check availability, identify conflicts, suggest alternatives, and support meeting coordination.
-Focus: reducing back-and-forth and improving executive time management.
-Voice AI Agent
-A conversational voice assistant designed for inbound and outbound business workflows, including routing, lead qualification, information gathering, and escalation.
-Focus: natural interaction, workflow automation, and better customer handling.
-AI-Assisted Quoting & OCR
-A workflow concept for extracting information from RFQs, PDFs, drawings, and customer documents, then organizing that information for quoting and review.
-Focus: faster response, improved consistency, and less manual data entry.
-Competitive Intelligence Monitor
-A system concept for tracking competitors, market changes, pricing, reviews, labor data, and relevant business signals.
-Focus: turning scattered market information into practical management insight.
-How I Approach Technology
-I tend to start with the business problem first.
-Before building anything, I want to understand:
-- What work is repetitive or frustrating?
-- Where are people losing time?
-- What decisions are being made with incomplete information?
-- Where are errors, handoffs, or delays occurring?
-- What information already exists but is difficult to use?
-- What should technology handle, and what should stay human?
-From there, I work toward solutions that are practical, understandable, and useful in the real operating environment.
-Experience at a Glance
-- 30+ years across manufacturing, operations, finance, technology, and business transformation
-- Progressed from manufacturing operator to executive leadership
-- COO/CFO and CEO-level responsibilities
-- Leadership responsibility across 400+ employees
-- International operating experience, including China
-- CNC machining and machine-tool experience
-- Process engineering and manufacturing technology
-- Applied electrical/electronics experience
-- Financial and operational leadership
-- Business transformation and organizational change
-- AI-enabled workflow and tool development
-Continuous Learning
-I use formal training and certification as a way to stay current and continue building on decades of hands-on technology experience.
-- DeepLearning.AI — Agentic AI — Certificate completed
-- AWS Certified AI Practitioner — In progress
-Education
-- Mechanical Engineering — Italy
-- B.S. Science & Technology — Texas A&M University–Corpus Christi
-- Entrepreneurship — Harvard Business School
-What I Am Interested In
-I am especially interested in contract work involving:
-- Applied AI
-- AI strategy and adoption
-- Business transformation
-- Manufacturing technology
-- AI-enabled operations
-- Product and program leadership
-- Workflow automation
-- Operational intelligence
-- Executive systems and decision support
-I am available for remote contract engagements and can commit up to 40 hours per week. I can start immediately.
-Contact
-Federico Veneziano
-Email: fveneziano0503@outlook.com
-Phone: 513-518-3465
+<div align="center">
+
+# Federico Veneziano
+
+### Executive Operator · Manufacturing Technologist · Applied AI Builder
+
+**30+ years turning technology, operations, finance, and manufacturing experience into practical systems that improve how people work.**
+
+<br>
+
+![Experience](https://img.shields.io/badge/EXPERIENCE-30%2B_YEARS-0B3558?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/LEADERSHIP-400%2B_PEOPLE-155E75?style=for-the-badge)
+![Operations](https://img.shields.io/badge/FOCUS-OPERATIONS_%26_FINANCE-0369A1?style=for-the-badge)
+![AI](https://img.shields.io/badge/TECH-APPLIED_AI-0F766E?style=for-the-badge)
+
+</div>
+
+---
+
+## About Me
+
+I started my career on the manufacturing floor and built it from the ground up—through CNC machining, process engineering, product development, operations, finance, and eventually COO/CFO and CEO-level leadership.
+
+Across that journey, I have led teams totaling **400+ employees** across multiple companies and international operations. Technology has always been part of how I work: from CNC and machine tools to manufacturing software, electrical/electronics applications, automation, business systems, and now applied AI.
+
+Today, I am especially interested in one question:
+
+> **How can we use technology to remove unnecessary work, improve decisions, and let people spend more time on the work that actually matters?**
+
+That is the lens I bring to AI.
+
+<br>
+
+## My Operating + Technology Lens
+
+| OPERATIONS & BUSINESS | TECHNICAL FOUNDATION | APPLIED AI |
+|---|---|---|
+| Executive leadership | CNC machining & machine tools | Agentic workflows |
+| Operations & finance | Process engineering | Business automation |
+| Business transformation | Manufacturing software | Voice AI |
+| Capacity & cost | Electrical / electronics | OCR & document intelligence |
+| Quality & performance | Systems integration | Scheduling assistants |
+| Organizational change | Automation | Decision-support tools |
+
+<br>
+
+## What I Build
+
+| | |
+|---|---|
+| **🏭 Executive & Manufacturing Operating Systems** | Connecting operations, finance, maintenance, purchasing, quoting, forecasting, customers, people, and KPIs into a clearer operating environment. |
+| **🤖 Agentic Business Workflows** | Exploring how AI agents can coordinate tasks, gather information, support decisions, and reduce repetitive administrative work. |
+| **🎙️ Voice AI Agents** | Conversational workflows for business calls, qualification, routing, information gathering, and escalation. |
+| **📅 Intelligent Scheduling** | Calendar coordination, availability checking, conflict detection, alternate-time suggestions, and meeting workflow automation. |
+| **📄 AI-Assisted Quoting & OCR** | Extracting useful information from RFQs, PDFs, drawings, and business documents to support faster review and quoting. |
+| **📊 Competitive & Operational Intelligence** | Turning scattered internal and external information into useful management signals and actionable insight. |
+
+<br>
+
+## Selected Portfolio Projects
+
+### 01 — Executive & Manufacturing Operating System
+**Problem:** Critical business information often lives across disconnected systems, spreadsheets, emails, and departments.
+
+**Concept:** A unified operating environment that brings together finance, operations, customers, maintenance, purchasing, quoting, forecasting, people, and KPIs.
+
+**Business focus:** Better visibility · faster decisions · clearer accountability · less administrative work
+
+---
+
+### 02 — Intelligent Scheduling Assistant
+**Problem:** Coordinating meetings across calendars creates unnecessary back-and-forth.
+
+**Concept:** An assistant that checks availability, identifies conflicts, suggests alternatives, and supports rescheduling workflows.
+
+**Business focus:** Time savings · coordination · executive productivity
+
+---
+
+### 03 — Voice AI Agent
+**Problem:** Many routine business conversations still require repetitive manual handling.
+
+**Concept:** A natural voice workflow for inbound and outbound conversations, qualification, routing, information collection, and escalation.
+
+**Business focus:** Responsiveness · consistency · workflow automation
+
+---
+
+### 04 — AI-Assisted Quoting & OCR
+**Problem:** RFQs and business documents often arrive in inconsistent formats and require significant manual review.
+
+**Concept:** Extract and structure relevant information from documents to support faster quoting and human review.
+
+**Business focus:** Speed · consistency · reduced data entry · better information flow
+
+---
+
+### 05 — Competitive Intelligence Monitor
+**Problem:** Important market signals are scattered across many different sources.
+
+**Concept:** Monitor relevant competitive, pricing, labor, review, and market information and convert it into concise management insight.
+
+**Business focus:** Awareness · faster response · better-informed decisions
+
+<br>
+
+## How I Approach Technology
+
+I start with the operating problem—not the technology.
+
+**1. Understand the work**  
+Where are people losing time? Where are the bottlenecks, handoffs, errors, and repetitive tasks?
+
+**2. Understand the decision**  
+What information is missing, fragmented, delayed, or difficult to interpret?
+
+**3. Decide what should be automated**  
+Not everything should be. The goal is to use technology where it creates meaningful leverage.
+
+**4. Keep people in the loop**  
+Good systems should enhance human judgment—not create unnecessary complexity around it.
+
+**5. Measure whether it actually helped**  
+A useful solution should improve time, cost, quality, visibility, responsiveness, or decision-making.
+
+<br>
+
+## Experience at a Glance
+
+| 30+ Years | 400+ Employees | International | Shop Floor → Executive |
+|:---:|:---:|:---:|:---:|
+| Manufacturing & business experience | Leadership responsibility across multiple companies | U.S. and China operations | Operator through CEO / COO / CFO |
+
+<br>
+
+## Continuous Learning
+
+My certifications are part of an ongoing effort to stay current with technology. They complement decades of hands-on experience applying technology in manufacturing and business environments.
+
+**DeepLearning.AI — Agentic AI**  
+✅ Certificate completed
+
+**AWS Certified AI Practitioner**  
+🔄 Currently pursuing
+
+<br>
+
+## Education
+
+**Mechanical Engineering** — Italy  
+**B.S. Science & Technology** — Texas A&M University–Corpus Christi  
+**Entrepreneurship** — Harvard Business School
+
+<br>
+
+## Current Availability
+
+> **Open to remote contract engagements · Available immediately · Up to 40 hours/week**
+
+I am particularly interested in projects involving **applied AI, manufacturing technology, AI-enabled operations, business transformation, workflow automation, product/program leadership, and operational intelligence.**
+
+<br>
+
+## Contact
+
+**Federico Veneziano**  
+Brandon, Florida
+
+[![Email](https://img.shields.io/badge/Email-fveneziano0503%40outlook.com-0B3558?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:fveneziano0503@outlook.com)
+[![Phone](https://img.shields.io/badge/Phone-513--518--3465-155E75?style=for-the-badge)](tel:+15135183465)
+
+---
+
+<div align="center">
+
+### Practical technology. Better decisions. More meaningful human work.
+
+</div>
