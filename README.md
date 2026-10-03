@@ -95,10 +95,10 @@ That is the lens I bring to AI.
 
 ---
 
-### 05 — Competitive Intelligence Monitor
+### 05 — [MarketSignal — Competitive & Market Intelligence](https://github.com/Fveneziano0503/competitive-market-intelligence)
 **Problem:** Important market signals are scattered across many different sources.
 
-**Concept:** Monitor relevant competitive, pricing, labor, review, and market information and convert it into concise management insight.
+**Concept:** MarketSignal compares manually supplied competitor prices, labor rates, and material costs, flags significant changes, and creates source-labeled review briefs. Includes a local demo and planned live-monitoring architecture.
 
 **Business focus:** Awareness · faster response · better-informed decisions
 
