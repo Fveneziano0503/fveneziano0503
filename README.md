@@ -77,10 +77,10 @@ That is the lens I bring to AI.
 
 ---
 
-### 03 — Voice AI Agent
+### 03 — [Voice AI Agent — Victoria / Revora AI](https://github.com/Fveneziano0503/voice-ai-agent)
 **Problem:** Many routine business conversations still require repetitive manual handling.
 
-**Concept:** A natural voice workflow for inbound and outbound conversations, qualification, routing, information collection, and escalation.
+**Concept:** Victoria is a conversational voice AI case study for business call routing, lead qualification, structured information capture, and human review. Includes a synthetic workflow demo, public prompt, and call-record schema.
 
 **Business focus:** Responsiveness · consistency · workflow automation
 
