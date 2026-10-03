@@ -104,6 +104,15 @@ That is the lens I bring to AI.
 
 <br>
 
+### 06 — [StayFlow — Hospitality Operations & Guest Experience](https://github.com/Fveneziano0503/hospitality-operations-guest-experience)
+**Problem:** Hotel teams need visibility into daily room performance, operating costs, and unfinished service work.
+
+**Concept:** A fictional hotel demo with editable occupancy and revenue metrics, housekeeping and maintenance tasks, guest requests, and CSV export.
+
+**Business focus:** Service coordination · financial visibility · operational accountability
+
+<br>
+
 ## How I Approach Technology
 
 I start with the operating problem—not the technology.
