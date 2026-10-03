@@ -52,7 +52,7 @@ That is the lens I bring to AI.
 | **🤖 Agentic Business Workflows** | Exploring how AI agents can coordinate tasks, gather information, support decisions, and reduce repetitive administrative work. |
 | **🎙️ Voice AI Agents** | Conversational workflows for business calls, qualification, routing, information gathering, and escalation. |
 | **📅 Intelligent Scheduling** | Calendar coordination, availability checking, conflict detection, alternate-time suggestions, and meeting workflow automation. |
-| **📄 AI-Assisted Quoting & OCR** | Extracting useful information from RFQs, PDFs, drawings, and business documents to support faster review and quoting. |
+| **📄 AI-Assisted Quoting & Document Intelligence** | Extracting useful information from RFQs, PDFs, drawings, and business documents to support faster review and quoting. |
 | **📊 Competitive & Operational Intelligence** | Turning scattered internal and external information into useful management signals and actionable insight. |
 
 <br>
