@@ -59,7 +59,7 @@ That is the lens I bring to AI.
 
 ## Selected Portfolio Projects
 
-### 01 — Executive & Manufacturing Operating System
+### 01 — [Executive & Manufacturing Operating System](https://github.com/Fveneziano0503/executive-manufacturing-operating-system)
 **Problem:** Critical business information often lives across disconnected systems, spreadsheets, emails, and departments.
 
 **Concept:** A unified operating environment that brings together finance, operations, customers, maintenance, purchasing, quoting, forecasting, people, and KPIs.
