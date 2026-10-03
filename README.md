@@ -2,9 +2,9 @@
 
 # Federico Veneziano
 
-### Executive Operator · Manufacturing Technologist · Applied AI Builder
+### Business Solutions Builder · Executive Operator · Applied AI
 
-**30+ years turning technology, operations, finance, and manufacturing experience into practical systems that improve how people work.**
+**30+ years connecting business, operations, finance, and technology to solve practical problems and improve how people work.**
 
 <br>
 
@@ -21,13 +21,17 @@
 
 I started my career on the manufacturing floor and built it from the ground up—through CNC machining, process engineering, product development, operations, finance, and eventually COO/CFO and CEO-level leadership.
 
-Across that journey, I have led teams totaling **400+ employees** across multiple companies and international operations. Technology has always been part of how I work: from CNC and machine tools to manufacturing software, electrical/electronics applications, automation, business systems, and now applied AI.
+Across that journey, I have led teams totaling **400+ team members** across multiple companies and international operations. Technology has always been part of how I work: from CNC and machine tools to manufacturing software, electrical/electronics applications, automation, business systems, and now applied AI.
 
 Today, I am especially interested in one question:
 
 > **How can we use technology to remove unnecessary work, improve decisions, and let people spend more time on the work that actually matters?**
 
-That is the lens I bring to AI.
+My foundation is manufacturing, but the questions I work on apply across industries: How does the work flow? What drives cost and revenue? Where do people lose time? What information helps them make a better decision?
+
+I bring that operating perspective to business solutions, service workflows, and applied AI. I learn the industry context, work with the people closest to the problem, and build around their needs.
+
+> **Every problem has a solution.** I start by understanding the problem, testing the assumptions, and finding a practical path forward.
 
 <br>
 
@@ -48,12 +52,14 @@ That is the lens I bring to AI.
 
 | | |
 |---|---|
+| **💼 Business Solutions & Process Improvement** | Connecting business goals, people, information, and workflows to address bottlenecks, reduce repetitive work, and support measurable outcomes across industries. |
 | **🏭 Executive & Manufacturing Operating Systems** | Connecting operations, finance, maintenance, purchasing, quoting, forecasting, customers, people, and KPIs into a clearer operating environment. |
 | **🤖 Agentic Business Workflows** | Exploring how AI agents can coordinate tasks, gather information, support decisions, and reduce repetitive administrative work. |
 | **🎙️ Voice AI Agents** | Conversational workflows for business calls, qualification, routing, information gathering, and escalation. |
 | **📅 Intelligent Scheduling** | Calendar coordination, availability checking, conflict detection, alternate-time suggestions, and meeting workflow automation. |
 | **📄 AI-Assisted Quoting & Document Intelligence** | Extracting useful information from RFQs, PDFs, drawings, and business documents to support faster review and quoting. |
 | **📊 Competitive & Operational Intelligence** | Turning scattered internal and external information into useful management signals and actionable insight. |
+| **🏨 Service Operations & Guest Experience** | Bringing performance metrics, service requests, maintenance, and operating costs into a clearer review workflow. |
 
 <br>
 
@@ -77,7 +83,7 @@ That is the lens I bring to AI.
 
 ---
 
-### 03 — [Voice AI Agent — Victoria — Business Voice Assistant](https://github.com/Fveneziano0503/voice-ai-agent)
+### 03 — [Victoria — Business Voice Assistant](https://github.com/Fveneziano0503/voice-ai-agent)
 **Problem:** Many routine business conversations still require repetitive manual handling.
 
 **Concept:** Victoria is a conversational voice AI case study for business call routing, lead qualification, structured information capture, and human review. Includes a synthetic workflow demo, public prompt, and call-record schema.
@@ -115,7 +121,7 @@ That is the lens I bring to AI.
 
 ## How I Approach Technology
 
-I start with the operating problem—not the technology.
+I start with the business problem and the people doing the work. Industry context matters, and the foundations of clear processes, financial discipline, service, accountability, and useful information apply across many settings.
 
 **1. Understand the work**  
 Where are people losing time? Where are the bottlenecks, handoffs, errors, and repetitive tasks?
@@ -124,10 +130,10 @@ Where are people losing time? Where are the bottlenecks, handoffs, errors, and r
 What information is missing, fragmented, delayed, or difficult to interpret?
 
 **3. Decide what should be automated**  
-Not everything should be. The goal is to use technology where it creates meaningful leverage.
+Choose the work where automation can improve time, cost, consistency, or service, and define where human judgment is needed.
 
 **4. Keep people in the loop**  
-Good systems should enhance human judgment—not create unnecessary complexity around it.
+Give team members clear information, useful controls, and responsibility for decisions that need human judgment.
 
 **5. Measure whether it actually helped**  
 A useful solution should improve time, cost, quality, visibility, responsiveness, or decision-making.
@@ -136,7 +142,7 @@ A useful solution should improve time, cost, quality, visibility, responsiveness
 
 ## Experience at a Glance
 
-| 30+ Years | 400+ Employees | International | Shop Floor → Executive |
+| 30+ Years | 400+ Team Members | International | Shop Floor → Executive |
 |:---:|:---:|:---:|:---:|
 | Manufacturing & business experience | Leadership responsibility across multiple companies | U.S. and China operations | Operator through CEO / COO / CFO |
 
@@ -166,7 +172,7 @@ My certifications are part of an ongoing effort to stay current with technology.
 
 > **Open to remote contract engagements · Available immediately · Up to 40 hours/week**
 
-I am particularly interested in projects involving **applied AI, manufacturing technology, AI-enabled operations, business transformation, workflow automation, product/program leadership, and operational intelligence.**
+I am particularly interested in projects involving **business solutions, process improvement, applied AI, workflow automation, operations and finance, manufacturing technology, service operations, product/program leadership, and operational intelligence across industries.**
 
 <br>
 
