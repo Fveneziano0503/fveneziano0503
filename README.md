@@ -86,10 +86,10 @@ That is the lens I bring to AI.
 
 ---
 
-### 04 — AI-Assisted Quoting & Document Intelligence
+### 04 — [QuoteFlow — AI-Assisted Quoting & Document Intelligence](https://github.com/Fveneziano0503/ai-quoting-document-intelligence)
 **Problem:** RFQs and business documents often arrive in inconsistent formats and require significant manual review.
 
-**Concept:** Extract and structure relevant information from documents to support faster quoting and human review.
+**Concept:** QuoteFlow structures labeled RFQ text, flags information gaps, calculates manual cost estimates, and exports reviewed CSV records. Includes a planned AI document-extraction architecture.
 
 **Business focus:** Speed · consistency · reduced data entry · better information flow
 
