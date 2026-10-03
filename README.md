@@ -68,10 +68,10 @@ That is the lens I bring to AI.
 
 ---
 
-### 02 — Intelligent Scheduling Assistant
+### 02 — [Intelligent Scheduling Assistant — SlotVero](https://github.com/Fveneziano0503/intelligent-scheduling-assistant)
 **Problem:** Coordinating meetings across calendars creates unnecessary back-and-forth.
 
-**Concept:** An assistant that checks availability, identifies conflicts, suggests alternatives, and supports rescheduling workflows.
+**Concept:** SlotVero is an intelligent scheduling assistant that checks availability, identifies conflicts, suggests alternatives, and supports rescheduling workflows.
 
 **Business focus:** Time savings · coordination · executive productivity
 
