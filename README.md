@@ -62,7 +62,7 @@ That is the lens I bring to AI.
 ### 01 — [Executive & Manufacturing Operating System](https://github.com/Fveneziano0503/executive-manufacturing-operating-system)
 **Problem:** Critical business information often lives across disconnected systems, spreadsheets, emails, and departments.
 
-**Concept:** A unified operating environment that brings together finance, operations, customers, maintenance, purchasing, quoting, forecasting, people, and KPIs.
+**Concept:** A public workflow concept for a unified view of finance, operations, maintenance, purchasing, quoting, people, and KPIs. Illustrated with fictional data.
 
 **Business focus:** Better visibility · faster decisions · clearer accountability · less administrative work
 
@@ -71,7 +71,7 @@ That is the lens I bring to AI.
 ### 02 — [Intelligent Scheduling Assistant — SlotVero](https://github.com/Fveneziano0503/intelligent-scheduling-assistant)
 **Problem:** Coordinating meetings across calendars creates unnecessary back-and-forth.
 
-**Concept:** SlotVero is an intelligent scheduling assistant that checks availability, identifies conflicts, suggests alternatives, and supports rescheduling workflows.
+**Concept:** SlotVero illustrates availability review, conflict detection, alternative-time suggestions, and rescheduling approval using fictional calendar data. Live connector readiness is not claimed.
 
 **Business focus:** Time savings · coordination · executive productivity
 
