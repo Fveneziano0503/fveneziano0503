@@ -4,7 +4,7 @@
 
 ### Business Solutions Builder · Executive Operator · Applied AI
 
-**30+ years connecting business, operations, finance, and technology to solve practical problems and improve how people work.**
+**30+ years connecting business, operations, finance, and technology to build practical solutions for organizations and everyday life.**
 
 <br>
 
@@ -53,6 +53,7 @@ I bring that operating perspective to business solutions, service workflows, and
 | | |
 |---|---|
 | **💼 Business Solutions & Process Improvement** | Connecting business goals, people, information, and workflows to address bottlenecks, reduce repetitive work, and support measurable outcomes across industries. |
+| **🏠 Consumer Solutions & Everyday Automation** | Practical tools that simplify everyday life—from home automation and personal scheduling to household organization—using clear interfaces and useful automation. |
 | **🏭 Executive & Manufacturing Operating Systems** | Connecting operations, finance, maintenance, purchasing, quoting, forecasting, customers, people, and KPIs into a clearer operating environment. |
 | **🤖 Agentic Business Workflows** | Exploring how AI agents can coordinate tasks, gather information, support decisions, and reduce repetitive administrative work. |
 | **🎙️ Voice AI Agents** | Conversational workflows for business calls, qualification, routing, information gathering, and escalation. |
@@ -116,6 +117,15 @@ I bring that operating perspective to business solutions, service workflows, and
 **Concept:** A fictional hotel demo with editable occupancy and revenue metrics, housekeeping and maintenance tasks, guest requests, and CSV export.
 
 **Business focus:** Service coordination · financial visibility · operational accountability
+
+<br>
+
+### 07 — [HomeFlow — Home Automation Dashboard](https://github.com/Fveneziano0503/home-automation-dashboard)
+**Problem:** Everyday device controls and household routines can be scattered across separate interfaces.
+
+**Concept:** A fictional-home demo with simulated room controls, online/offline device states, Home/Away routines, and activity export. No physical devices are connected.
+
+**Everyday focus:** Convenience · clear controls · useful routines · visibility
 
 <br>
 
