@@ -38,7 +38,7 @@ That is the lens I bring to AI.
 | Executive leadership | CNC machining & machine tools | Agentic workflows |
 | Operations & finance | Process engineering | Business automation |
 | Business transformation | Manufacturing software | Voice AI |
-| Capacity & cost | Electrical / electronics | OCR & document intelligence |
+| Capacity & cost | Electrical / electronics | AI-Assisted Quoting & Document Intelligence |
 | Quality & performance | Systems integration | Scheduling assistants |
 | Organizational change | Automation | Decision-support tools |
 
@@ -86,7 +86,7 @@ That is the lens I bring to AI.
 
 ---
 
-### 04 — AI-Assisted Quoting & OCR
+### 04 — AI-Assisted Quoting & Document Intelligence
 **Problem:** RFQs and business documents often arrive in inconsistent formats and require significant manual review.
 
 **Concept:** Extract and structure relevant information from documents to support faster quoting and human review.
@@ -148,7 +148,7 @@ My certifications are part of an ongoing effort to stay current with technology.
 ## Education
 
 **Mechanical Engineering** — Italy  
-**B.S. Science & Technology** — Texas A&M University–Corpus Christi  
+**B.S. Science & Technology** — Texas A&M   
 **Entrepreneurship** — Harvard Business School
 
 <br>
